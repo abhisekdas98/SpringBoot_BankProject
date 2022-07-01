@@ -1,0 +1,5 @@
+insert into Person values (1,10000,'Ram Das','9asdf10',3452617829,'Current balance is 10000')
+insert into Person values (22,20000,'Shyam Pradhan','102asd70',8328825367,'current balance is 20000')
+insert into Person values (35,83456,'Abhisek Das','8011s2sa',8275534617,'current balance is 83456')
+insert into Person values (40,243561,'Prakhar Agarwal','11a7s7',9872245361,'current balance is 243561')
+insert into Person values (13,109283,'Rhythm Paliwal','abc9119',9765578235,'current balance is 109283')
